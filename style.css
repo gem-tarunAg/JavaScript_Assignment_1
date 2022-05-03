@@ -1,0 +1,21 @@
+
+#container{ 
+    text-align: center;
+    margin: 0;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#heading{
+    color: aquamarine;
+}
+
+#table{
+    margin-right: auto;
+    margin-left: auto;
+    color:white;
+}
+
+#table th{
+    background-color: #989898;
+}
